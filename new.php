@@ -10,4 +10,6 @@ mysql_query("SET NAMES utf8");
 
 echo 'Fuck off';
 
+echo 'Fuck off';
+
 ?>
